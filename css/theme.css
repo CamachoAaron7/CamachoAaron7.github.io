@@ -672,10 +672,10 @@ cite {
 
 .team-member {
     display: block;
-    margin: auto;
+    margin: 0 auto 50px;
     max-width: 350px;
     padding: 0;
-    width: 50%;
+    width: 100%;
 	vertical-align: top;
 }
 
