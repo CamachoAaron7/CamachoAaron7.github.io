@@ -245,15 +245,6 @@ cite {
 
 /* Home Slider */
 
-.slide-wrap{
-	background-image: url(../images/slider/bg-1.jpg);
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center;
-	background-attachment: fixed;
-}
-
-
 #home-slider {
   overflow: hidden;
   position: relative;
