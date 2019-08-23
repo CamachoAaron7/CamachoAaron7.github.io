@@ -719,7 +719,9 @@ cite {
 }
 
 .team-member-image img {
-    max-width: 100%;
+		margin: auto;
+		width: 100%
+		max-width: 100%;
     -webkit-transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -o-transition: all .5s ease-in-out;
@@ -728,6 +730,8 @@ cite {
 }
 
 .team-member-image:hover img {
+		margin: auto;
+		width: 100%
     -webkit-transform:rotate(10deg) scale(1.2);
     -moz-transform:rotate(10deg) scale(1.2);
     -ms-transform:rotate(10deg) scale(1.2);
