@@ -671,9 +671,12 @@ cite {
 
 
 .team-member {
+    display: block;
     margin: auto;
-    padding: 10px;
-    width: 50%;
+    max-width: 350px;
+    padding: 0;
+    width: 100%;
+	vertical-align: top;
 }
 
 .team-member-holder {
