@@ -689,6 +689,8 @@ cite {
     -o-transition: all .5s ease-in-out;
     -ms-transition: all .5s ease-in-out;
     transition: all .5s ease-in-out;
+	margin: auto;
+	width: 100%
 }
 
 .team-member-holder:hover .team-overlay{
