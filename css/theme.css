@@ -712,6 +712,8 @@ cite {
 	display: block;
 	position: relative;
 	display: block;
+	margin: auto;
+	width: 100%;
 }
 
 .team-member-image img {
