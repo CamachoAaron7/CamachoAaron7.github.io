@@ -1012,8 +1012,10 @@ li:last-child {
 	font-size: 60px;
 }
 
+
 #single-portfolio {
-  padding: 90px 0;
+	margin-right: 10px
+	padding: 90px 0;
   position: relative;
 }
 
