@@ -688,8 +688,6 @@ cite {
     -o-transition: all .5s ease-in-out;
     -ms-transition: all .5s ease-in-out;
     transition: all .5s ease-in-out;
-	margin: auto;
-	width: 100%
 }
 
 .team-member-holder:hover .team-overlay{
@@ -713,13 +711,9 @@ cite {
 	display: block;
 	position: relative;
 	display: block;
-	margin: auto;
-	width: 100%;
 }
 
 .team-member-image img {
-		margin: auto;
-		width: 100%
 		max-width: 100%;
     -webkit-transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
